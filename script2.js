@@ -95,5 +95,5 @@ function fictorial (numbers) {
     }
     return fact;
 }
-
+console.log("check")
 console.log(fictorial(numbers));
